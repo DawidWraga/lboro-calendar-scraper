@@ -7,10 +7,10 @@
  
  ## Instructions
 
-- go into main.js
+- go to `main.js` file (see above)
 - copy whole script (ctrl+A , ctrl+C)
 - paste it any text editor
-- change config to set up shorthand names (alias) and learn link (details below)
+- change config to set up shorthand names (alias) and learn link (more details in `main.js`)
 - copy whole script 
 - go to learn timetable
 - Select Sem1 or Sem2 (NOT a specific week)
