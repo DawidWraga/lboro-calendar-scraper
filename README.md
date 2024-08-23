@@ -7,8 +7,11 @@
  
  ## Instructions
 
-- change config to set up shorthand names (alias) and learn link (details below)
+- go into main.js
 - copy whole script (ctrl+A , ctrl+C)
+- paste it any text editor
+- change config to set up shorthand names (alias) and learn link (details below)
+- copy whole script 
 - go to learn timetable
 - Select Sem1 or Sem2 (NOT a specific week)
 - open developer console using F12 (or rightclick, inspect) then select "console" tab
