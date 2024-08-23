@@ -4,6 +4,8 @@
  Export lboro timetable to CSV created by Dawid Wraga.
  
  Adapted from [similar script](https://github.com/james2mid/timetable-vcs) created by James Middleton (export to vcf)
+
+ Note: this script was written ~2021, if the timetabling website drastically changes it may cause the script to stop working
  
  ## Instructions
 
